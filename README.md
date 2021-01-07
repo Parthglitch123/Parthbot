@@ -18,4 +18,4 @@ MAKE A NEW ONE USING MY TUTORIAL :D``**
 ``IF YOU DO NOT USE A COMMAND EVERY HALF AN HOUR ON REPL.IT HOSTING THE BOT DIES, CAN BE REVIVED BY RESTARTING IT``
 
 # Host On Repl.it
-[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/GiveawayBot)](https://repl.it/github/ZeroDiscord/GiveawayBot)
+[![Use on Repl.it](https://repl.it/badge/github/ZeroDiscord/GiveawayBot)](https://repl.it/@Parthglitch123/Parthbot)
